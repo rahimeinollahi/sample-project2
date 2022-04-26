@@ -11,6 +11,7 @@
             </ul>
         </div>
     </div>
+    
 </template>
 
 <script>
@@ -22,7 +23,7 @@
                     {id:1,name:'Help',path:'/help'},
                     {id:2,name:'Link',path:'/link'},
                     {id:3,name:'Map',path:'/map'},
-                    {id:4,name:'Find People',path:'/find-pople'},
+                    {id:4,name:'Find People',path:'/find-poeple'},
                     {id:4,name:'Search',path:'/search'},
                 ]
             }
@@ -31,5 +32,8 @@
 </script>
 
 <style lang="scss" scoped>
-
+img{
+    width: 50px;
+    height: 50px;
+}
 </style>
