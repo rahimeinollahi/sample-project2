@@ -8,12 +8,14 @@
         </ul>
         <hr>
         <footer>
+            
             <img src=../../src/assets/twitter.png>
             <i class="glyphicon glyphicon-cloud"></i>
             <i class="glyphicon glyphicon-thumbs-up"></i>
             <i class="fab fa-instagram"></i>
             <a href="#" class="fa fa-facebook text-white"></a>
         </footer>
+        <hr></hr>
     </div>
 </template>
 
