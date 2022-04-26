@@ -23,7 +23,7 @@
                     {id:1,name:'Help',path:'/help'},
                     {id:2,name:'Link',path:'/link'},
                     {id:3,name:'Map',path:'/map'},
-                    {id:4,name:'Find People',path:'/find-poeple'},
+                    {id:4,name:'Dapartemet',path:'/departement'},
                     {id:4,name:'Search',path:'/search'},
                 ]
             }
