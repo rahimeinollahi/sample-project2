@@ -51,7 +51,7 @@
                     <input type="text" placeholder="Enter your email"  class="form-control" id="email" name="email">
                     <input type="button" value="Post Comment" class="btn btn-danger mt-3">
                 </form>
-                    <div class="g-recaptcha" data-sitekey="6Lf0gqEfAAAAAMFVioD38jsmawFAbynsz94IcjZs"></div>
+                    <div class="g-recaptcha" data-sitekey="6Le-26EfAAAAACamjhLz9ZGvj8-tu4ITYXm-Z3F9"></div>
                     
                 <div></div>
 
